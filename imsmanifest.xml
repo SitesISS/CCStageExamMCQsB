@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6KGjcarLj4b_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Stage Recognition and Exam MCQs B</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Stage_Recognition_and_Exam_MCQs_B_ORG">
+    <organization identifier="Stage_Recognition_and_Exam_MCQs_B_ORG">
+      <title>Stage Recognition and Exam MCQs B</title>
+      <item identifier="Mitosis_End_of_Unit_Quiz_SCO" isvisible="true" identifierref="__6KGjcarLj4b_course_id_RES">
+        <title>Stage Recognition and Exam MCQs B</title>
+        <adlcp:masteryscore>80</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6KGjcarLj4b_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6JsorwieUfE_80.jpg" />
+      <file href="mobile/6LaG6zwucbZ.gif" />
+      <file href="mobile/5bgdGO2neEP_M_1440_1440.png" />
+      <file href="mobile/5cw3G5VK7uT_M_1264_1264.png" />
+      <file href="mobile/5kUnaB5oVNL_M_1440_1440.png" />
+      <file href="mobile/5rI9hDiKGI8_M_1440_1440.png" />
+      <file href="mobile/6PIMZMZ9wWg_M_1438_1438_P_0_179_422_347.png" />
+      <file href="mobile/5v8IpNMVSB8_M_1440_1440.png" />
+      <file href="mobile/5rrzKYYBWBa_FFFFFF_80_P_126_144_201_195.png" />
+      <file href="mobile/5rrzKYYBWBa_FFFFFF_80_P_126_482_265_205.png" />
+      <file href="mobile/5rrzKYYBWBa_FFFFFF_80_P_725_447_211_263.png" />
+      <file href="mobile/5rrzKYYBWBa_FFFFFF_80_P_441_482_266_205.png" />
+      <file href="mobile/5rrzKYYBWBa_FFFFFF_80_P_375_144_198_195.png" />
+      <file href="mobile/5rrzKYYBWBa_FFFFFF_80_P_620_144_200_195.png" />
+      <file href="mobile/5rrzKYYBWBa_FFFFFF_80_P_858_144_208_195.png" />
+      <file href="meta.xml" />
+      <file href="story_content/triggers.js" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Shape5b3jeguoJWp.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5jsWbXtrLSw.js" />
+      <file href="html5/data/js/5ltnZBdt8Hu.js" />
+      <file href="html5/data/js/5mq8pQi0VG3.js" />
+      <file href="html5/data/js/5uzubd3tk2U.js" />
+      <file href="html5/data/js/5zrzEKFtSHT.js" />
+      <file href="html5/data/js/620TeC6m6DJ.js" />
+      <file href="html5/data/js/65bcytfKbSl.js" />
+      <file href="html5/data/js/671R9FdTtDa.js" />
+      <file href="html5/data/js/67vbEuYKJjI.js" />
+      <file href="html5/data/js/68LdUBAsV91.js" />
+      <file href="html5/data/js/6acCbybvjAD.js" />
+      <file href="html5/data/js/6cczaRy1ELt.js" />
+      <file href="html5/data/js/6duQxNwnsRS.js" />
+      <file href="html5/data/js/6gurPchyXtR.js" />
+      <file href="html5/data/js/6hD76xn1NUy.js" />
+      <file href="html5/data/js/6nu6srVRFWg.js" />
+      <file href="html5/data/js/6Oe0jMgrxKe.js" />
+      <file href="html5/data/js/6VeGHNAJPsm.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
